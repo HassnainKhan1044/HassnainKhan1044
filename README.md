@@ -1,51 +1,153 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi 👋, I'm Hassnain Haider Khan
 
-###
+### 🚀 Generative AI Developer | BSIT Graduate
 
-<p align="left">My name is Hassnain .. and I'm a ..., from ..faisalabad..</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022...<br>📚 I'm currently learning ...<br>🎯 Goals: are to become a professional web developer..<br>🎲 Fun fact: many...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HassnainKhan1044&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HassnainKhan1044&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassnainKhan1044&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I enjoy building practical AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern Python frameworks. My focus is on creating real-world solutions with clean code and intuitive user experiences.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HassnainKhan1044&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
 
+- 🎓 BSIT Graduate
+- 🤖 Interested in Generative AI & Machine Learning
+- 💻 Building AI-powered applications with Python
+- 🌱 Currently learning advanced LLM and AI engineering concepts
+- 🎯 Goal: Become an AI Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks & Libraries
+- FastAPI
+- LangChain
+- Google Gemini API
+- Jinja2
+
+### AI & Data
+- RAG
+- Prompt Engineering
+- PDF Processing
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 AI Resume Analyzer
+Analyze resumes using AI, calculate ATS score, compare against a job description, and provide personalized improvement suggestions.
+
+### 💬 Company RAG Chatbot
+Ask questions about company documents using Retrieval-Augmented Generation and LangChain.
+
+### 🎙️ AI Meeting Summarizer
+Upload meeting audio, generate transcripts, and create concise AI-powered summaries.
+
+### 📧 AI Email Generator
+Generate professional emails instantly using AI.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Prompt Engineering
+- LangGraph
+- AI Agents
+- Vector Databases
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn *(Coming Soon)*
+- Email: your-email@example.com
+
+---
+
+⭐ Thanks for visiting my profile!# Hi 👋, I'm Hassnain Haider Khan
+
+### 🚀 Generative AI Developer | BSIT Graduate
+
+I enjoy building practical AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern Python frameworks. My focus is on creating real-world solutions with clean code and intuitive user experiences.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BSIT Graduate
+- 🤖 Interested in Generative AI & Machine Learning
+- 💻 Building AI-powered applications with Python
+- 🌱 Currently learning advanced LLM and AI engineering concepts
+- 🎯 Goal: Become an AI Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks & Libraries
+- FastAPI
+- LangChain
+- Google Gemini API
+- Jinja2
+
+### AI & Data
+- RAG
+- Prompt Engineering
+- PDF Processing
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 AI Resume Analyzer
+Analyze resumes using AI, calculate ATS score, compare against a job description, and provide personalized improvement suggestions.
+
+### 💬 Company RAG Chatbot
+Ask questions about company documents using Retrieval-Augmented Generation and LangChain.
+
+### 🎙️ AI Meeting Summarizer
+Upload meeting audio, generate transcripts, and create concise AI-powered summaries.
+
+### 📧 AI Email Generator
+Generate professional emails instantly using AI.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Prompt Engineering
+- LangGraph
+- AI Agents
+- Vector Databases
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn *(Coming Soon)*
+- Email: your-email@example.com
+
+---
+
+⭐ Thanks for visiting my profile!
