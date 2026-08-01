@@ -56,6 +56,14 @@ Upload meeting audio, generate transcripts, and create concise AI-powered summar
 ### 📧 AI Email Generator
 Generate professional emails instantly using AI.
 
+## 📫 Connect With Me
+
+- LinkedIn *(https://www.linkedin.com/in/hassnain-haider/)*
+- Email: hhaider1044@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
 ---
 
 
