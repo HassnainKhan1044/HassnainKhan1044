@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassnain Haider Khan</h1>
+<h1 align="center">Hi 👋, I'm Hassnain Haider </h1>
 
 <h3 align="center">🚀 Generative AI Developer | BSIT Graduate | Python & FastAPI Enthusiast</h3>
 
